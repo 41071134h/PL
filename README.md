@@ -21,4 +21,6 @@
 
 [**Hw04 Medium**](https://medium.com/@kobe911029/文字探勘-aa3004d94575)
 
+[**Hw04文字探勘**](https://github.com/41071134h/PL/tree/main/hw04)
+
 ### 專題連結區 ###
