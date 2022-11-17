@@ -19,4 +19,6 @@
 
 [**Hw03**](https://github.com/41071134h/PL/tree/main/hw03)
 
+[**Hw04 Medium**](https://medium.com/@kobe911029/文字探勘-aa3004d94575)
+
 ### 專題連結區 ###
