@@ -23,6 +23,8 @@
 
 [**Hw04 文字探勘**](https://github.com/41071134h/PL/tree/main/hw04)
 
+[**Hw05 文本**](https://github.com/41071134h/PL/tree/main/hw05)
+
 [**Hw05 Medium**](https://medium.com/@kobe911029/食品認證實驗室名單資料集-fd65ecc25b4)
 
 ### 專題連結區 ###
